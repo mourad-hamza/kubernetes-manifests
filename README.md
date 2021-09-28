@@ -1,4 +1,4 @@
-# /!\ This repository is depricated and moved to : https://github.com/nutanix-nwa/karbon
+# /!\ This repository is deprecated and moved to : https://github.com/nutanix-nwa/karbon
 
 ## Custom kubernetes cheat sheet
 
