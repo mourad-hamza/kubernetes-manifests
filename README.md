@@ -1,3 +1,5 @@
+# /!\ This repository is depricated and moved to : https://github.com/nutanix-nwa/karbon
+
 ## Custom kubernetes cheat sheet
 
 #### Apply one limit range on multiple namespaces
